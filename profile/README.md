@@ -5,7 +5,7 @@ to write and study them. Those tools run as MCP servers, so your AI assistant ca
 
 Registered in Norway as PUBLIFYE AS, org.nr 826 774 622. Publishing since 2016. [publifye.com](https://publifye.com)
 
-## Nine servers you can connect today
+## Ten servers you can connect today
 
 Add any of these to Claude, Cursor or another MCP client. The first time you use one, you sign in
 from your browser. There are no keys to create and nothing to install.
@@ -21,7 +21,8 @@ from your browser. There are no keys to create and nothing to install.
     "timely":     { "type": "http", "url": "https://timely.publifye.com/mcp" },
     "brreg":      { "type": "http", "url": "https://brreg.publifye.com/mcp" },
     "lexar":      { "type": "http", "url": "https://lexar-api.publifye.com/mcp" },
-    "currency":   { "type": "http", "url": "https://currency.publifye.com/mcp" }
+    "currency":   { "type": "http", "url": "https://currency.publifye.com/mcp" },
+    "vitae":      { "type": "http", "url": "https://vitae.publifye.com/mcp" }
   }
 }
 ```
@@ -43,6 +44,12 @@ You don't need all of them. Pick the ones you want.
 |---|---|
 | **[Doksi](https://doksi.publifye.com)** | Turn letters, agreements, agendas and checklists into clean PDFs, and collect signatures by link or QR code. |
 | **[Timely](https://timely.publifye.com)** | Plan a series of meetings, keep the programme up to date, and share it on your website and as a printed PDF. Nothing is published until a person approves it. |
+
+### For yourself
+
+| | |
+|---|---|
+| **[Vitae](https://vitae.publifye.com)** | Keep your CV as a document you own, in more than one language, and turn it into a clean PDF. Nobody sees it until you publish it. |
 
 ### For Norwegian public data
 
