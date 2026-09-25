@@ -43,6 +43,7 @@ You don't need all of them. Pick the ones you want.
 | | |
 |---|---|
 | **[Doksi](https://doksi.publifye.com)** | Turn letters, agreements, agendas and checklists into clean PDFs, and collect signatures by link or QR code. |
+| **[Marriage covenants](https://marriage.publifye.com)** | Make a marriage covenant with your assistant: your own vows, a Bible verse, your witnesses and one of nine painted or drawn designs, as a one-page PDF to sign and frame. It is a keepsake, not a civil certificate. Made with Doksi, so there is nothing extra to connect. |
 | **[Timely](https://timely.publifye.com)** | Plan a series of meetings, keep the programme up to date, and share it on your website and as a printed PDF. Nothing is published until a person approves it. |
 
 ### For yourself
